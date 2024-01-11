@@ -7,8 +7,6 @@ for the Unity Game Engine.
 
 For information on how to use the controller, you can check out
 this YouTube video:
-Alternatively, documentation can be found in the documentation.pdf
-file.
 
 CC-2D falls under the Creative Commons Zero 1.0 Universal license,
 meaning anyone can modify, resell and redistribute this script,
