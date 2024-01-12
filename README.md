@@ -6,7 +6,7 @@ CC-2D (CameraController2D) is an advanced, free 2D camera controller
 for the Unity Game Engine.
 
 For information on how to use the controller, you can check out
-this YouTube video:
+this YouTube video: (currently not released)
 
 CC-2D falls under the Creative Commons Zero 1.0 Universal license,
 meaning anyone can modify, resell and redistribute this script,
