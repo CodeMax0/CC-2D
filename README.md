@@ -12,5 +12,3 @@ CC-2D falls under the Creative Commons Zero 1.0 Universal license,
 meaning anyone can modify, resell and redistribute this script,
 you can also use this in any of your commercial projects for
 completely free! For more information check out the LISCENSE file.
-
-Any support on my YouTube is greatly appreciated!
